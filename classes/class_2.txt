@@ -1,0 +1,14 @@
+Class: Water glass
+
+Attributes:
+  glass_type (string)
+  glass_size (integer)
+  glass_clean (boolean)
+  glass_fill (float)
+  glass_id (string)
+
+  Methods:
+    glass_wash (modifies glass_clean to true)
+    glass_refill (subtracts glass_fill from glass_size and fills remaining amount)
+    glass_change (modifies glass_type and glass_size attribute)
+    glass_break (removes glass_id from array) 
