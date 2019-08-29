@@ -1,0 +1,15 @@
+Class: Table
+
+Attributes:
+  seats_occupied (integer)
+  seats_available (integer)
+  table_occupied (boolean)
+  table_id (string)
+  current_order (array)
+  current_tab (float)
+
+Methods:
+  add_customer (modifies seats_occupied and seats_available attribute)
+  add_item (appends item to current_order array)
+  table_refresh (changes table_occupied attribute to false)
+  change_tab (modifies current_tab based on add_item)
