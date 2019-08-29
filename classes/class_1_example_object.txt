@@ -4,7 +4,7 @@ Attributes:
   seats_occupied: 3
   seats_available: 1
   table_occupied: true
-  table_id: table_3
+  table_id: "table_3"
   current_order: ["diet_coke", "coke", "hamburger", "onion_rings", "cheeseburger", "curly_fries"]
   current_tab: 24.11
 
