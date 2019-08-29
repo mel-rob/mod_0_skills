@@ -1,0 +1,43 @@
+How to Become a Turing Student
+
+1 Attend Try Coding weekend
+  1.1 Identify date and sign up
+    1.1.1 Open new browser window on computer
+    1.1.2 Type "turing.io/try-coding/#upcoming-sessions" into address bar and hit enter
+    1.1.3 Scroll through weekend dates and choose date that works for you
+    1.1.4 Click "Join Event" button for desired date
+    1.1.5 Click "Tickets" button and check out until confirmation is received
+  1.2 Attend back-end day
+    1.2.1 Pack laptop, charger, notebook, pen, and lunch
+    1.2.2 Locate Turing School location
+    1.2.3 Drive to Turing School and park
+    1.2.4 Find Turing basement and enter
+    1.2.5 Join back-end day event and follow teacher instructions
+  1.3 Attend front-end day
+    1.3.1 Pack laptop, charger, notebook, pen, and lunch
+    1.3.2 Locate Turing School location
+    1.3.3 Drive to Turing School and park
+    1.3.4 Find Turing basement and enter
+    1.3.5 Join front-end day event and follow teacher instructions
+2 Submit Turing application
+  2.1 Choose program
+    2.1.1 Find comfortable and quiet spot alone
+    2.1.2 Reflect on back-end day
+    2.1.3 Reflect on front-end day
+    2.1.4 Decide which day sparked joy
+    2.1.5 Commit to back-end or front-end
+  2.2 Apply through website
+    2.2.1 Open browser window on computer
+    2.2.2 Type "turing.io/programs" into address bar and hit enter
+    2.2.3 Find desired program
+    2.2.4 Click "Apply Now" on desired program
+    2.2.5 Follow instructions to complete application
+  2.3 Submit logic quiz
+    2.3.1 Find comfortable and quiet spot alone with computer
+    2.3.2 Open application link and log in with username and password
+    2.3.3 Click "Start Logic Quiz"
+    2.3.4 Follow instructions to complete quiz
+    2.3.5 Review answers and submit quiz
+3 Pass in-person interview and logic test
+4 Choose module start date
+5 Sign contract and pay deposit
