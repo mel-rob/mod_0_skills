@@ -1,0 +1,14 @@
+Object: Water_Glass_1324
+
+Attributes:
+  glass_type: "large"
+  glass_size: 16
+  glass_clean: false
+  glass_fill: 4.3
+  glass_id: "1324"
+
+Methods:
+  glass_wash: (modifies glass_clean to true)
+  glass_refill: (subtracts 4.3 from 16 and refills 11.7)
+  glass_change: (modifies glass_type to "small" and glass_size to 8)
+  glass_break (removes glass_id "1324" from array) 
