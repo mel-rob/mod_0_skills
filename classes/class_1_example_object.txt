@@ -1,0 +1,14 @@
+Object: Table_3
+
+Attributes:
+  seats_occupied: 3
+  seats_available: 1
+  table_occupied: true
+  table_id: table_3
+  current_order: ["diet_coke", "coke", "hamburger", "onion_rings", "cheeseburger", "curly_fries"]
+  current_tab: 24.11
+
+  add_customer: 1 (modifies seats_occupied to 4, seats_available to 0)
+  add_item: "grilled_cheese" (modifies current_order to: ["diet_coke", "coke", "hamburger", "onion_rings", "cheeseburger", "curly_fries", "grilled_cheese"])
+  table_refresh: customers leave (changes table_occupied to false)
+  change_tab 6.75 (modifies current_tab to 30.86)
